@@ -1,0 +1,20 @@
+{% extends "diary/base.html" %} {% block content%}
+
+<div class="container-lg" id="register-container">
+  <frm action="" method="POST">
+    {% csrf_token %}
+    <h1>Register Here</h1>
+    <hr />
+    <label for="name">Username</label><br />
+    {{ form.username }}<br />
+    <label for="">Email ID</label><br />
+    {{ form.email }}<br />
+    <label for="">Password</label><br />
+    {{ form.password}}<br />
+    <label for="">Confirm Password</label><br />
+    {{ form.confirm_password }}<br />
+    <button type="submit" class="btn btn-info">Submit</button>
+  </form>
+</div>
+
+{% endblock content %}

@@ -1,0 +1,146 @@
+a {
+  margin: 5px 5px 5px 5px;
+}
+
+.jumbotron {
+  font-family: Monospace;
+  height: 600px;
+  align-content: center;
+}
+.navbar-brand {
+  font-size: 35px;
+  font-weight: bolder;
+  font-style: inherit;
+  font-family: monospace;
+}
+#points {
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+.jumbotron h1 {
+  font-size: 70px;
+  font-weight: bolder;
+}
+
+/* The introduction page styling ends here */
+
+button {
+  margin: 5px 5px 5px 5px;
+}
+
+.navbar-brand {
+  font-size: 35px;
+  font-weight: bolder;
+  font-style: inherit;
+  font-family: monospace;
+}
+#register-container {
+  text-align: center;
+  height: fit-content;
+  width: 600px;
+  background-color: #eee;
+  margin-top: 50px;
+}
+
+#register-container button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#register-container h1 {
+  font-family: monospace;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+
+#register-container label {
+  padding-top: 20px;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+#register-container input {
+  width: 300px;
+}
+
+/* The register page styling ends here */
+
+button {
+  margin: 5px 5px 5px 5px;
+}
+
+.navbar-brand {
+  font-size: 35px;
+  font-weight: bolder;
+  font-style: inherit;
+  font-family: monospace;
+}
+#login-container {
+  text-align: center;
+  height: fit-content;
+  width: 600px;
+  background-color: #eee;
+  margin-top: 50px;
+}
+
+#login-container button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#login-container h1 {
+  font-family: monospace;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+
+#login-container label {
+  padding-top: 20px;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+#login-container input[type="text"] {
+  width: 300px;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+/* The login page styling ends here */
+
+#card-container {
+  margin-top: 30px;
+}
+
+/* The home page styling ends here */
+
+#input-container {
+  margin-top: 30px;
+  font-family: monospace;
+  font-size: 15px;
+  align-content: center;
+  text-align: center;
+  background-color: #e6e6e6;
+}
+
+#input-container label {
+  margin-bottom: 10px;
+}
+
+#input-container input {
+  width: 1000px;
+  margin-bottom: 30px;
+  border: 2px solid black;
+}
+
+#input-container textarea {
+  width: max-content;
+  margin-bottom: 20px;
+  border: 2px solid black;
+}
+#input-container button {
+  margin-bottom: 20px;
+}
+
+/* The editor page styling ends here */

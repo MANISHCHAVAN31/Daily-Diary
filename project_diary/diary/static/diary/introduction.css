@@ -1,0 +1,24 @@
+a {
+  margin: 5px 5px 5px 5px;
+}
+
+.jumbotron {
+  font-family: Monospace;
+  height: 600px;
+  align-content: center;
+}
+.navbar-brand {
+  font-size: 35px;
+  font-weight: bolder;
+  font-style: inherit;
+  font-family: monospace;
+}
+#points {
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+.jumbotron h1 {
+  font-size: 70px;
+  font-weight: bolder;
+}
